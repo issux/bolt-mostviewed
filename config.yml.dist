@@ -1,0 +1,4 @@
+# Configuration file for MostVisited
+
+# Number of 'contenttype' to show
+number: 5
