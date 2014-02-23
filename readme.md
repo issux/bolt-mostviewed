@@ -34,6 +34,10 @@ And you must add the following code in template used to show contenttype detail:
 
 `{{ mostviewedupdate(record.id, 'contenttype') }}`
 
+For example:
+
+`{{ mostviewedupdate(record.id, 'posts') }}`
+
 
 Database
 =======================
